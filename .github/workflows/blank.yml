@@ -1,0 +1,7 @@
+echo "# Trojan.Chase" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/somedeveloper123/Trojan.Chase.git
+git push -u origin main
